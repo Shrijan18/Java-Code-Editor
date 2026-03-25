@@ -1,0 +1,147 @@
+Great idea 🔥 — a good README will make your project look **professional + impressive** on GitHub.
+I’ll give you a clean, **GitHub-ready README.md** tailored specifically for your editor 👇
+
+---
+
+# 📄 **README.md (copy–paste this)**
+
+```markdown
+# 🧑‍💻 Java Code Editor (Mini VS Code Clone)
+
+A lightweight and feature-rich **Java-based code editor** built using **Swing** and **RSyntaxTextArea**, inspired by modern IDEs like VS Code.
+
+---
+
+## 🚀 Features
+
+- ✨ Syntax highlighting (Java)
+- 🗂 Multiple tabs support
+- ❌ Close tabs with cross button
+- 📂 File Explorer panel
+- 💾 Auto-save functionality
+- 🎨 Dark & Light themes
+- ↩️ Undo / Redo support
+- ▶️ Run Java code directly inside the editor
+- 🖥 Console output panel
+- 📐 Auto-indentation
+- 🧠 Basic code formatting
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Java (JDK 17+ recommended)
+- **UI Framework:** Swing
+- **Libraries:**
+  - [RSyntaxTextArea](https://bobbylight.github.io/RSyntaxTextArea/) (for syntax highlighting)
+
+---
+
+## 📂 Project Structure
+
+```
+
+JavaCodeEditor/
+│
+├── CodeEditor.java
+├── lib/
+│   └── rsyntaxtextarea-3.3.4.jar
+└── README.md
+
+````
+
+---
+
+## ⚙️ Setup & Run
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/java-code-editor.git
+cd java-code-editor
+````
+
+---
+
+### 2️⃣ Compile the project
+
+```bash
+javac -cp ".;lib/rsyntaxtextarea-3.3.4.jar" CodeEditor.java
+```
+
+---
+
+### 3️⃣ Run the editor
+
+```bash
+java -cp ".;lib/rsyntaxtextarea-3.3.4.jar" CodeEditor
+```
+
+> 💡 On macOS/Linux use `:` instead of `;`
+
+---
+
+## ▶️ Running Code Inside Editor
+
+* Write your Java program in a tab
+* Click **Run ▶️**
+* Output will be shown in the console panel
+
+---
+
+## ⚠️ Limitations
+
+* Input (`Scanner`) support is limited (no interactive console yet)
+* Supports only Java language (for now)
+* No debugging feature (yet)
+
+---
+
+## 🔮 Future Improvements
+
+* 🔍 Auto-completion (IntelliSense)
+* 🐞 Debugging support
+* 🌐 Multi-language support (Python, C++)
+* 📦 Build & export as JAR
+* 🎯 Better UI (VS Code style tabs)
+
+---
+
+## 👨‍💻 Author
+
+**StarkGuide**
+B.Tech IT Student 🚀
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+```
+
+---
+
+## 🧠 Pro Tips (Important)
+- Replace:
+```
+
+[https://github.com/your-username/java-code-editor.git](https://github.com/your-username/java-code-editor.git)
+
+```
+with your real repo link  
+
+- Add a screenshot later → it boosts your project a LOT  
+
+---
+
+## 🚀 Want next level?
+I can help you:
+- Add **screenshots in README**
+- Add **badges (build, version, etc.)**
+- Write a **LinkedIn post for this project**
+- Make it look like a **professional open-source repo**
+
+Just tell me 👍
+```
