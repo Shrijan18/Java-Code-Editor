@@ -1,5 +1,4 @@
 
-```markdown
 # 🧑‍💻 Java Code Editor (Mini VS Code Clone)
 
 A lightweight and feature-rich **Java-based code editor** built using **Swing** and **RSyntaxTextArea**, inspired by modern IDEs like VS Code.
@@ -112,7 +111,5 @@ B.Tech IT Student 🚀
 If you like this project, give it a ⭐ on GitHub!
 
 ---
-
-```
 
 ---
